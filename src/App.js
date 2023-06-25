@@ -43,12 +43,12 @@ function App() {
 
   return (
     <>
-      <Router>
+      <Router basename='/TextUtils'>
         <Navbar title= "TextUtils" mode = {mode} toggleMode={toggleMode} />
         <Alert alert = {alert}/>
         <div className="container">
           <Routes>
-            <Route exact path="/" element ={ <TextForm showAlert = {showAlert} heading="Enter Your Text To Analyze"/> }/>
+            <Route exact path="/TextUtils" element ={ <TextForm showAlert = {showAlert} heading="Enter Your Text To Analyze"/> }/>
             <Route path="/About" element = {<About/>}/>
             <Route path="/Meaning" element = {<Meaning/>}/>
             <Route path="/search/:word" element = {<Definition mode = {mode}/>}/>
