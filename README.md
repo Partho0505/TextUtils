@@ -1,3 +1,26 @@
+# TextUtils
+# Home Page
+![Screenshot (34)](https://github.com/Partho0505/TextUtils/assets/97835994/8b4463f3-bad1-4e72-9817-3c2641af9fc4)
+# Home Page Dark Mode
+![Screenshot (35)](https://github.com/Partho0505/TextUtils/assets/97835994/f690ba79-5bda-4574-8d0c-3481a758e9ef)
+# Analysing Text
+![Screenshot (44)](https://github.com/Partho0505/TextUtils/assets/97835994/368deec4-919b-4ea9-80db-1403032b0bda)
+# Dictionary Page
+![Screenshot (36)](https://github.com/Partho0505/TextUtils/assets/97835994/288244e7-c0fc-4bc2-835e-7dc2e34cb2e8)
+# Dictionary Page Dark Mode
+![Screenshot (37)](https://github.com/Partho0505/TextUtils/assets/97835994/172716e2-e0de-4717-87ce-29f2aa4c943e)
+# Searching Word Meaning
+![Screenshot (40)](https://github.com/Partho0505/TextUtils/assets/97835994/f6c56214-8101-4473-832f-7c753bb79dc0)
+# Word Search Result Page
+![Screenshot (42)](https://github.com/Partho0505/TextUtils/assets/97835994/870a25fe-7f42-4967-927e-c69e046018da)
+# Word Search Result Page Dark Mode
+![Screenshot (43)](https://github.com/Partho0505/TextUtils/assets/97835994/9c16046c-6d97-4214-8e45-076742b87f0e)
+# About Page
+![Screenshot (38)](https://github.com/Partho0505/TextUtils/assets/97835994/983eb92a-4b5e-484c-bfbf-6fb447b63eca)
+# About Page Dark Mode
+![Screenshot (39)](https://github.com/Partho0505/TextUtils/assets/97835994/01218596-4759-480a-9372-21d6a0b70722)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
