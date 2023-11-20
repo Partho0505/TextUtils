@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {useNavigate} from 'react-router-dom'
 
 export default function Meaning() {
-    const [word, setWord] = useState();
+    const [word, setWord] = useState("");
 
     const navigate = useNavigate(); 
 
@@ -23,7 +23,7 @@ export default function Meaning() {
         <form className="form" role="search" onSubmit={onSubmitHandler}>            
           <input className="form-control form-control-lg shadow-none rounded my-3"  placeholder='Enter your word' value={word} onChange={onChangeHandler}/>
           <div className="text-center">
-            <button className="btn btn-primary btn-lg" style={{width : '150px'}}>Search</button>
+            <button disabled={word.length === 0} className="btn btn-primary btn-lg" style={{width : '150px'}}>Search</button>
           </div>
         </form>
       </div>
